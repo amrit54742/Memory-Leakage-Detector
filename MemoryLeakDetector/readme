@@ -17,9 +17,9 @@ Dumping Leaked Objects
 -----------------------------------------------------------------------------------------------------|
 0   ptr = 0x55cf26d86a40 | next = 0x55cf26d86a10 | units = 1    | struct_name = student_t  | is_root = FALSE |
 -----------------------------------------------------------------------------------------------------|
-student_t[0]->stud_name = shivani
-student_t[0]->rollno = 0
-student_t[0]->age = 0
+student_t[0]->stud_name = Amrit
+student_t[0]->rollno = 190122
+student_t[0]->age = 21
 student_t[0]->aggregate = 0.000000
 student_t[0]->best_colleage = (nil)
 
